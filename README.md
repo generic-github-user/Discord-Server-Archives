@@ -7,3 +7,4 @@ This repository serves to store data exported from various Discord servers. It i
 A list of servers and links to their archives.
 
  - [TensorFlow](https://github.com/generic-github-user/Discord-Server-Archives/tree/master/servers/TensorFlow)
+ - [Tensor Lounge II](https://github.com/generic-github-user/Discord-Server-Archives/tree/master/servers/Tensor%20Lounge%20II)
