@@ -1,0 +1,19 @@
+{"_id":{"$oid":"5c45e50bafed6947f7b647fb"},"id":"534860624912580634","color":0,"hoist":false,"managed":false,"mentionable":false,"name":"@everyone","permissions":104324161,"position":0}
+{"_id":{"$oid":"5c45e50bafed6947f7b647fc"},"id":"534860913208066059","color":15277667,"hoist":true,"managed":false,"mentionable":true,"name":"Nerds","permissions":1610079479,"position":14}
+{"_id":{"$oid":"5c45e50bafed6947f7b647fd"},"id":"534878999244046347","color":3066993,"hoist":true,"managed":false,"mentionable":true,"name":"Subsidiary Overlords","permissions":104324169,"position":15}
+{"_id":{"$oid":"5c45e50bafed6947f7b647fe"},"id":"534880574134026240","color":2123412,"hoist":false,"managed":false,"mentionable":true,"name":"FIRST HAHA!","permissions":104324161,"position":10}
+{"_id":{"$oid":"5c45e50bafed6947f7b647ff"},"id":"535225104074801152","color":15158332,"hoist":false,"managed":false,"mentionable":false,"name":"elementz","permissions":104324161,"position":9}
+{"_id":{"$oid":"5c45e50bafed6947f7b64800"},"id":"535229982818172968","color":0,"hoist":true,"managed":true,"mentionable":false,"name":"Karbon","permissions":536341991,"position":7}
+{"_id":{"$oid":"5c45e50bafed6947f7b64801"},"id":"535234796541181962","color":10181046,"hoist":true,"managed":false,"mentionable":true,"name":"The Dark Lord","permissions":104324169,"position":16}
+{"_id":{"$oid":"5c45e50bafed6947f7b64802"},"id":"535235067442888721","color":3447003,"hoist":true,"managed":false,"mentionable":false,"name":"Bots","permissions":104324161,"position":8}
+{"_id":{"$oid":"5c45e50bafed6947f7b64803"},"id":"535235959634133003","color":0,"hoist":false,"managed":true,"mentionable":false,"name":"MathBot","permissions":379968,"position":5}
+{"_id":{"$oid":"5c45e50bafed6947f7b64804"},"id":"535240058920501258","color":0,"hoist":false,"managed":true,"mentionable":false,"name":"Tatsumaki","permissions":12921935,"position":4}
+{"_id":{"$oid":"5c45e50bafed6947f7b64805"},"id":"535574240775372822","color":3447003,"hoist":false,"managed":false,"mentionable":true,"name":".EST","permissions":104324161,"position":2}
+{"_id":{"$oid":"5c45e50bafed6947f7b64806"},"id":"535575150842871820","color":0,"hoist":false,"managed":true,"mentionable":false,"name":"Discord.RSS","permissions":281664,"position":6}
+{"_id":{"$oid":"5c45e50bafed6947f7b64807"},"id":"535575340743917607","color":0,"hoist":false,"managed":true,"mentionable":false,"name":"Rythm","permissions":262216,"position":3}
+{"_id":{"$oid":"5c45e50bafed6947f7b64808"},"id":"535580553223733265","color":0,"hoist":false,"managed":true,"mentionable":false,"name":"Time Zone Roles","permissions":268699752,"position":17}
+{"_id":{"$oid":"5c45e50bafed6947f7b64809"},"id":"535583017507487765","color":3447003,"hoist":false,"managed":false,"mentionable":true,"name":".PST","permissions":104324161,"position":1}
+{"_id":{"$oid":"5c45e50bafed6947f7b6480a"},"id":"535592567086120960","color":3066993,"hoist":true,"managed":false,"mentionable":false,"name":"Meme Suppliers","permissions":104324161,"position":11}
+{"_id":{"$oid":"5c45e50bafed6947f7b6480b"},"id":"535594439054327819","color":15105570,"hoist":false,"managed":false,"mentionable":false,"name":"Expert","permissions":104324161,"position":13}
+{"_id":{"$oid":"5c45e50bafed6947f7b6480c"},"id":"535594514581291008","color":15844367,"hoist":false,"managed":false,"mentionable":false,"name":"Chrome Extender","permissions":104324161,"position":12}
+{"_id":{"$oid":"5c45e50bafed6947f7b6480d"},"id":"536259851706171422","color":3447003,"hoist":false,"managed":false,"mentionable":true,"name":".GMT","permissions":104324161,"position":1}

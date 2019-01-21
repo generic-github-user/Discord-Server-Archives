@@ -1,0 +1,11 @@
+{"_id":{"$oid":"5c45e51aafed6947f7b6482b"},"id":"107426052367716352","avatar":"36a409d06b9ba5fe7aea05350e112489","bot":false,"discriminator":"8170","username":"Braveheart"}
+{"_id":{"$oid":"5c45e51aafed6947f7b6482c"},"id":"134073775925886976","avatar":"970d33bddeb40f9b7a20f7524a6b07f5","bot":true,"discriminator":"7353","username":"MathBot"}
+{"_id":{"$oid":"5c45e51aafed6947f7b6482d"},"id":"172002275412279296","avatar":"f5f65755f67ae1dc88d9bb271d0f5bef","bot":true,"discriminator":"8792","username":"Tatsumaki"}
+{"_id":{"$oid":"5c45e51aafed6947f7b6482e"},"id":"200390090139107329","avatar":"95a8df7f6d455945993c8d30cd8a50d1","bot":false,"discriminator":"4874","username":"Huzuni"}
+{"_id":{"$oid":"5c45e51aafed6947f7b6482f"},"id":"235088799074484224","avatar":"16c197c4c3f0eb808f9bceb6e1075e71","bot":true,"discriminator":"3722","username":"Rythm"}
+{"_id":{"$oid":"5c45e51aafed6947f7b64830"},"id":"268478587651358721","avatar":"b2d4f57616590969848de0fdc4e159eb","bot":true,"discriminator":"3921","username":"Discord.RSS"}
+{"_id":{"$oid":"5c45e51aafed6947f7b64831"},"id":"357307569397694466","avatar":"74cff87f0d5b94d3e4f624805834e09d","bot":false,"discriminator":"7739","username":"elementz"}
+{"_id":{"$oid":"5c45e51aafed6947f7b64832"},"id":"376358607836545032","avatar":"58cfc1f8dadd21cc905e676c12aed103","bot":false,"discriminator":"1168","username":"generic_discord_user"}
+{"_id":{"$oid":"5c45e51aafed6947f7b64833"},"id":"475341503942885376","avatar":"954700ab8b2167f5dc490d34588043ce","bot":true,"discriminator":"7166","username":"Karbon"}
+{"_id":{"$oid":"5c45e51aafed6947f7b64834"},"id":"534476181710569492","avatar":"6034d9eb88bdd2399251ac10a20be011","bot":true,"discriminator":"1068","username":"Time Zone Roles"}
+{"_id":{"$oid":"5c45e51aafed6947f7b64835"},"id":"536916830204198933","avatar":null,"bot":true,"discriminator":"2826","username":"Discord Server Exporter"}
